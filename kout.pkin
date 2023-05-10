@@ -1,0 +1,6 @@
+DESCRIPT:  A Program for Outing Text
+DEPEND:  pkin
+SIZE:  1-CPP
+
+EDP: kout <sentance>
+EX:  kout Hello, World!
